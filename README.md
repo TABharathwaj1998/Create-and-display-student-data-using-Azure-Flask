@@ -1,1 +1,2 @@
-# Create-and-display-student-data-using-Azure-Flask
+# A simple display of student data that is deployed using Azure
+https://createanddisplaydatabytab.azurewebsites.net/data
